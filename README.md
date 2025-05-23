@@ -1,6 +1,4 @@
-👋 Hi, I’m Nishaa
-<br>
-💫 About Me:<br>
+## Hi, I'm Nishaa​✨​<br>
 🔭 compsci student at VITC<br>
 👀 I’m interested in web development<br>
 🌱 I’m currently learning ML<br>
