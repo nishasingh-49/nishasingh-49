@@ -7,14 +7,14 @@
 
 ---
 
-### 🌐 Connect with me:
+###  Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itsnishawhat_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-singh-203a89280/)   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishasinghnus@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack:
+###  Tech Stack:
 
 **Languages & Frameworks**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -45,18 +45,15 @@
 
 ---
 
-### 📊 GitHub Stats:
+###  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishasingh-49&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 ![](https://nirzak-streak-stats.vercel.app/?user=nishasingh-49&theme=blue-green&hide_border=false)
 
 ---
 
-### ✍️ Dev Quote:
+###  Dev Quote:
 > ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=nishasingh-49&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Powered by vibes, iced americano, and a lil' bit of chaos 🌪️ -->
