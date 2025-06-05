@@ -1,5 +1,5 @@
 ## Hi, I'm Nishaa​✨<br>
-🔭 compsci student at VITC<br>👀interested in web development<br>🌱currently learning ML<br>📫you can reach me through Linkedin<br>⚡mintchoco and iced americano>>
+🔭 compsci student at VITC<br>👀interested in web development<br>🌱currently learning ML(prolly becoming a real time vision nerd)<br>📫you can reach me through Linkedin<br>⚡mintchoco and iced americano>>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itsnishawhat_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisha-singh-203a89280/)   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishasinghnus@gmail.com) 
