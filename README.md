@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Nishaa ✨</h1>
-<h3 align="center">CS undergrad @ VITC · Real-time Vision Enthusiast · Web Dev Explorer</h3>
+<h3 align="center">CS undergrad at VITC · Real-time Vision Enthusiast · Web Dev Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F0B8&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Nishaa+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F;Full-time+student%2C+part-time+codewitch+%F0%9F%96%A5%EF%B8%8F;Web+dev+%2B+real-time+ML+are+my+playgrounds;Mint+choco+%26+debugging+fuel+my+soul" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFC8&center=true&vCenter=true&width=1000&lines=Learning+ML+%7C+Vision+Nerd+in+Progress;Fueled+by+Mint+Choco+or+Iced+Americano+%26+Late+Night+Code+Sessions" alt="Typing SVG" />
 </p>
-
 
 ---
 
