@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nishaa ✨</h1>
+<h1 align="center">Hi, I'm Nishaa </h1>
 <h3 align="center">CS undergrad at VITC · Real-time Vision Enthusiast · Web Dev Explorer</h3>
 
 <p align="center">
